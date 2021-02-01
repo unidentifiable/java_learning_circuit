@@ -1,5 +1,11 @@
 # Java学习路线
 
+关注微信公众号：【该昵称无法识别】
+
+> 回复：【Java学习路线】获取思维导图
+
+
+
 ## Java基础/进阶
 
 **基础**
@@ -449,3 +455,13 @@ Kubernetes： https://kubernetes.io/
 Elasticsearch： https://www.elastic.co/cn/elasticsearch/ 
 
 Apache： https://www.apache.org/ 
+
+
+
+# 免责声明
+
+所有视频教程来源： https://www.bilibili.com/ 
+
+版权归属各培训机构所有，我这边只做收集汇总，实际教授内容与本人无关
+
+如有侵权，马上联系我，我会立马删除对应链接。联系邮箱： **[unidentifiable@qq.com](mailto:unidentifiable@qq.com)**
