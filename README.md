@@ -373,3 +373,67 @@
 <a href=" https://www.bilibili.com/video/BV1SQ4y1N7XC ">【千锋教育】高级框架项目-开放平台云控中心</a>
 
 <a href=" https://www.bilibili.com/video/BV16e411W7gB ">【千锋教育】大型企业战略开放平台</a>
+
+
+
+# 官网
+
+JavaSE： https://www.oracle.com/java/technologies/java-se-glance.html 
+
+Spring： https://spring.io/ 
+
+Spring Boot： https://spring.io/projects/spring-boot 
+
+Spring Cloud： https://spring.io/projects/spring-cloud 
+
+Spring Security： https://spring.io/projects/spring-security
+
+Shiro： http://shiro.apache.org/ 
+
+Mybatis-Plus： https://mp.baomidou.com/ 
+
+Dubbo： https://dubbo.apache.org/zh/ 
+
+Zookeeper： https://zookeeper.apache.org/ 
+
+RabbitMQ： https://www.rabbitmq.com/ 
+
+ActiveMQ： https://activemq.apache.org/ 
+
+Rocket MQ： http://rocketmq.apache.org/ 
+
+Kafka： http://kafka.apache.org/ 
+
+ShardingSphere： http://shardingsphere.apache.org/document/legacy/3.x/document/cn/quick-start/sharding-jdbc-quick-start/ 
+
+Redis： https://redis.io/ 
+
+MongoDB： https://www.mongodb.com/2 
+
+Activiti： https://www.activiti.org/ 
+
+MySQL： https://www.mysql.com/ 
+
+Oracle： https://www.oracle.com/index.html 
+
+Maven： https://maven.apache.org/ 
+
+Maven Repository： https://mvnrepository.com/ 
+
+Git： https://git-scm.com/ 
+
+SVN： https://tortoisesvn.net/ 
+
+Tomcat： https://tomcat.apache.org/ 
+
+Jenkins： https://www.jenkins.io/zh/ 
+
+CentOS： https://www.centos.org/ 
+
+Ubuntu： https://ubuntu.com/ 
+
+Docker： https://www.docker.com/ 
+
+Kubernetes： https://kubernetes.io/ 
+
+Elasticsearch： https://www.elastic.co/cn/elasticsearch/ 
