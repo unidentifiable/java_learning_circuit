@@ -304,6 +304,16 @@
 
 
 
+**Nginx**
+
+<a href="https://www.bilibili.com/video/BV1zJ411w7SV?from=search&seid=4524228276884397828">【尚硅谷】Nginx教程</a>
+
+<a href="https://www.bilibili.com/video/BV1iW411G7xX?from=search&seid=4524228276884397828">【黑马程序员】Nginx视频</a>
+
+<a href="https://www.bilibili.com/video/BV1W54y1z7GM?from=search&seid=4524228276884397828">【千锋教育】2020最新 Nginx教程全面讲解</a>
+
+
+
  **Linux系统** 
 
 <a href="https://www.bilibili.com/video/BV1mW411i7Qf?from=search&seid=13217611037658760214">【兄弟连】史上最牛的Linux视频教程</a>
